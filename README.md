@@ -1,1 +1,1 @@
-# 3_Checking_status_of_led_using_switches
+# 3_Checking_Status_of_Led_Using_Switches
